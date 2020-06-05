@@ -1,0 +1,74 @@
+header {
+  background-color: rgb(124, 124, 124);
+}
+
+.member-prf img {
+  width: 250px;
+  height: 170px;
+}
+
+.prf-name {
+  font-size: 18px;
+}
+
+.prf-txt {
+  font-size: 13px;
+}
+
+.container > p {
+  border-bottom: solid 1px gray;
+  display: inline-block;
+}
+
+.member-prf {
+  display: inline-block;
+  width: 400px;
+  background-color: beige;
+  margin: 15px 15px 15px 0;
+  flex: auto;
+}
+
+footer {
+  text-align: center;
+}
+.container {
+  display: inline;
+}
+
+.member-wrapper {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.chegan-line {
+  border-bottom: solid 1px skyblue;
+  display: inline-block;
+}
+
+.charu-line {
+  border-bottom: solid 1px pink;
+  display: inline-block;
+}
+
+.moffy-line {
+  border-bottom: solid 1px gray;
+  display: inline-block;
+}
+
+.gude-line {
+  border-bottom: solid 1px yellow;
+  display: inline-block;
+}
+
+.kinako-line {
+  border-bottom: solid 1px orange;
+  display: inline-block;
+}
+
+header ul {
+  list-style: none;
+}
+
+.age {
+  font-size: 14px;
+}
